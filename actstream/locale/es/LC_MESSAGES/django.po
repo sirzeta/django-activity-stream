@@ -29,26 +29,26 @@ msgstr "dejó de seguir a"
 #: models.py:115
 #, python-format
 msgid "%(actor)s %(verb)s %(action_object)s on %(target)s %(timesince)s ago"
-msgstr ""
+msgstr "%(actor)s %(verb)s %(action_object)s en %(target)s %(timesince)s atrás"
 
 #: models.py:116
 #, python-format
 msgid "%(actor)s %(verb)s %(target)s %(timesince)s ago"
-msgstr ""
+msgstr "%(actor)s %(verb)s %(target)s %(timesince)s atrás"
 
 #: models.py:118
 #, python-format
 msgid "%(actor)s %(verb)s %(action_object)s %(timesince)s ago"
-msgstr ""
+msgstr "%(actor)s %(verb)s %(action_object)s %(timesince)s atrás"
 
 #: models.py:119
 #, python-format
 msgid "%(actor)s %(verb)s %(timesince)s ago"
-msgstr ""
+msgstr "%(actor)s %(verb)s %(timesince)s atrás"
 
 #: templates/actstream/action.html:13
 msgid "ago"
-msgstr ""
+msgstr "atrás"
 
 #: templates/actstream/actor.html:24
 msgid "UNFOLLOW"
@@ -69,7 +69,7 @@ msgstr "Aún no hay acciones"
 #: templates/actstream/detail.html:3
 #, python-format
 msgid "On %(date)s at %(time)s"
-msgstr "%(date)s a las %(time)s"
+msgstr "En %(date)s a las %(time)s"
 
 #: templates/actstream/followers.html:2
 #, python-format
